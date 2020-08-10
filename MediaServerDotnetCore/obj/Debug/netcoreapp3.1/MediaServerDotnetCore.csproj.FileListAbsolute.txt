@@ -1,0 +1,11 @@
+C:\Users\max\source\repos\MediaServerDotnetCore\MediaServerDotnetCore\bin\Debug\netcoreapp3.1\MediaServerDotnetCore.exe
+C:\Users\max\source\repos\MediaServerDotnetCore\MediaServerDotnetCore\bin\Debug\netcoreapp3.1\MediaServerDotnetCore.deps.json
+C:\Users\max\source\repos\MediaServerDotnetCore\MediaServerDotnetCore\bin\Debug\netcoreapp3.1\MediaServerDotnetCore.runtimeconfig.json
+C:\Users\max\source\repos\MediaServerDotnetCore\MediaServerDotnetCore\bin\Debug\netcoreapp3.1\MediaServerDotnetCore.runtimeconfig.dev.json
+C:\Users\max\source\repos\MediaServerDotnetCore\MediaServerDotnetCore\bin\Debug\netcoreapp3.1\MediaServerDotnetCore.dll
+C:\Users\max\source\repos\MediaServerDotnetCore\MediaServerDotnetCore\bin\Debug\netcoreapp3.1\MediaServerDotnetCore.pdb
+C:\Users\max\source\repos\MediaServerDotnetCore\MediaServerDotnetCore\obj\Debug\netcoreapp3.1\MediaServerDotnetCore.csprojAssemblyReference.cache
+C:\Users\max\source\repos\MediaServerDotnetCore\MediaServerDotnetCore\obj\Debug\netcoreapp3.1\MediaServerDotnetCore.AssemblyInfoInputs.cache
+C:\Users\max\source\repos\MediaServerDotnetCore\MediaServerDotnetCore\obj\Debug\netcoreapp3.1\MediaServerDotnetCore.AssemblyInfo.cs
+C:\Users\max\source\repos\MediaServerDotnetCore\MediaServerDotnetCore\obj\Debug\netcoreapp3.1\MediaServerDotnetCore.dll
+C:\Users\max\source\repos\MediaServerDotnetCore\MediaServerDotnetCore\obj\Debug\netcoreapp3.1\MediaServerDotnetCore.pdb
