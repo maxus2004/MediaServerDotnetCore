@@ -79,6 +79,7 @@ namespace MediaServerDotnetCore {
             }
             mediaHtml += "</body>\n";
             mediaHtml += "</html>\n";
+
             return Encoding.UTF8.GetBytes(mediaHtml);
         }
     }
